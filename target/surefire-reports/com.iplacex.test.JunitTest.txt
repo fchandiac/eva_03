@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.iplacex.test.JunitTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.306 s - in com.iplacex.test.JunitTest
